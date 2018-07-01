@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Mysql Quiz App</string>
+    <string name="no1">1</string>
+    <string name="no2">2</string>
+    <string name="no3">3</string>
+    <string name="no4">4</string>
+    <string name="no5">5</string>
+    <string name="no6">6</string>
+    <string name="no7">7</string>
+    <string name="no8">8</string>
+    <string name="no9">9</string>
+    <string name="no10">10</string>
+
+    <string name="q1">A database is a collection of records with attributes that has a capability of updating, deleting and manipulation of all records </string>
+    <string name="q2">What does CRUID stands for in SQL ?</string>
+    <string name="q3">What does MSQL stands for </string>
+    <string name="q4">What is RDBMS ?</string>
+    <string name="q5">What is DBMS ?</string>
+    <string name="q6">List the Types of Database Model you know</string>
+    <string name="q7">How do you select all in MSQL</string>
+    <string name="q8">Is DBMS Dynamic of Static ? </string>
+    <string name="q9">In what year was First Database created</string>
+    <string name="q10">Who created it ?</string>
+
+    <string name="q1Option">True</string>
+    <string name="q1Option2">False</string>
+
+    <string name="q2Option">Create</string>
+    <string name="q2Option2">Remove</string>
+    <string name="q2Option3">Update</string>
+    <string name="q2Option4">Insert</string>
+    <string name="q2Option5">Delete</string>
+
+
+    <string name="q3option1">Machine skit Query Language </string>
+    <string name="q3Option2">My Structured Query Language</string>
+
+    <string name="q4Option1">Related Database Management System</string>
+    <string name="q4Option2">Relational Database Management System</string>
+
+    <string name="button">Submit</string>
+
+
+
+</resources>
